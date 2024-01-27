@@ -1,5 +1,7 @@
 # Coffee Sales Dashboard
 
+<img width="700" alt="Screenshot 2024-01-26 010423" src="https://github.com/Dataskillx/Coffee_Sales_Dashboard_Excel_Project/assets/157766946/6a4ca699-50ac-4702-932a-b05256df8d58">
+
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over a period of 3 years and 6 months. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 # Data Sources
